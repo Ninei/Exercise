@@ -1,0 +1,6 @@
+
+			PC		iPhone
+frameGrab ~ 5		1 ms
+dataPorcess 21		25 ms
+math		1		1 ms
+display		8		105 ms
