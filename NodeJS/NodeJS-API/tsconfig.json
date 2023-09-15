@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": ".",
+    "outDir": "./dist",	//컴파일 후 js 파일들이 생성되는 곳
+    "moduleResolution": "node",	//모듈 해석 방법 설정: 'node' (Node.js)
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
