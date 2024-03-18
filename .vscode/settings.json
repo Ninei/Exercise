@@ -1,3 +1,6 @@
 {
-    "livePreview.defaultPreviewPath": "/JS/_Tutorial/Export&Import/index.html"
+    "livePreview.defaultPreviewPath": "/JS/_Tutorial/Export&Import/index.html",
+    "python.analysis.extraPaths": [
+        "./Python/HansSpell/py-hanspell"
+    ]
 }
