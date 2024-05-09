@@ -3,4 +3,4 @@
 import { sayHi } from "./Export.js"
 // import * as Say from "./Export"
 
-sayHi("Kim");
+sayHi("Kim Jung Hwan");
