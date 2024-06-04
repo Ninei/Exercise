@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "hjson": "^3.2.2",
     "webview-nodejs": "^0.2.4"
   }
 }
